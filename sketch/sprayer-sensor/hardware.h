@@ -6,4 +6,4 @@
 #define pot2 A1
 #define k1 12
 #define k2 11
-#define sw1 2
+#define eStop 4
