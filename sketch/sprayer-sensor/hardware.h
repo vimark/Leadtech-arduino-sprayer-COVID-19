@@ -1,0 +1,9 @@
+#define echoPin1 7
+#define trigPin1 8
+#define echoPin2 5
+#define trigPin2 6
+#define pot1 A0
+#define pot2 A1
+#define k1 12
+#define k2 11
+#define sw1 2
